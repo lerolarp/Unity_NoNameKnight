@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2340bcfbd1edbf24b970aa614e2e191c, type: 3}
+    - {fileID: 2800000, guid: f620f88cd452e914b9728c7d1d0ef946, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - e478b780e9a5ef240a6c00f30082ca91: 21300000
+    - f7d8e4d01a9901f49936939944b184b5: 21300000
+    - c1a0393175ab9c74ba7b1bc1a6be7d2f: 21300000
+    - 67db5983d4f701a499cc7904348ddb42: 21300000
+    - 8eeb483430670f849870b7bdb26e63cb: 21300000
+    - ec6539641d8acd6499849f0aa64eabe2: 21300000
+    - afdc8ae56df31324a9dc57fe49e8e3ad: 21300000
+    - 384e0af55b1db8e4a8920ec12867fe93: 21300000
+    - 5ac30926153156c48892e6ee5d3c51f2: 21300000
+    - b0b818c678001fb4bac376a3a5bf246f: 21300000
+    - 00c778f8b31085f419c067deed424585: 21300000
+    - 634c40d94ac109243acbf7a5c7dde12c: 21300000
+    - c06b044b94e85b34a95431c460428ee8: 21300000
+    - f620f88cd452e914b9728c7d1d0ef946: 21300000
+    - bd0c583ded6ce2d438878804a00dfcbf: 21300000
+    - 8c03544d54f0d2a4194b2505e18d936a: 21300000
+    - f8de8b0e6d5b85d408090bd1e39fac4b: 21300000
+    - 2cbdda4fadd5fca429c5f5e25656e8dd: 21300000
+    - eabb6c9f3d7c3124b8eac9d011c1eb15: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e478b780e9a5ef240a6c00f30082ca91, type: 3}
+  - {fileID: 21300000, guid: f7d8e4d01a9901f49936939944b184b5, type: 3}
+  - {fileID: 21300000, guid: c1a0393175ab9c74ba7b1bc1a6be7d2f, type: 3}
+  - {fileID: 21300000, guid: 67db5983d4f701a499cc7904348ddb42, type: 3}
+  - {fileID: 21300000, guid: 8eeb483430670f849870b7bdb26e63cb, type: 3}
+  - {fileID: 21300000, guid: ec6539641d8acd6499849f0aa64eabe2, type: 3}
+  - {fileID: 21300000, guid: afdc8ae56df31324a9dc57fe49e8e3ad, type: 3}
+  - {fileID: 21300000, guid: 384e0af55b1db8e4a8920ec12867fe93, type: 3}
+  - {fileID: 21300000, guid: 5ac30926153156c48892e6ee5d3c51f2, type: 3}
+  - {fileID: 21300000, guid: b0b818c678001fb4bac376a3a5bf246f, type: 3}
+  - {fileID: 21300000, guid: 00c778f8b31085f419c067deed424585, type: 3}
+  - {fileID: 21300000, guid: 634c40d94ac109243acbf7a5c7dde12c, type: 3}
+  - {fileID: 21300000, guid: c06b044b94e85b34a95431c460428ee8, type: 3}
+  - {fileID: 21300000, guid: f620f88cd452e914b9728c7d1d0ef946, type: 3}
+  - {fileID: 21300000, guid: bd0c583ded6ce2d438878804a00dfcbf, type: 3}
+  - {fileID: 21300000, guid: 8c03544d54f0d2a4194b2505e18d936a, type: 3}
+  - {fileID: 21300000, guid: f8de8b0e6d5b85d408090bd1e39fac4b, type: 3}
+  - {fileID: 21300000, guid: 2cbdda4fadd5fca429c5f5e25656e8dd, type: 3}
+  - {fileID: 21300000, guid: eabb6c9f3d7c3124b8eac9d011c1eb15, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - shape069_style02_color01
+  - shape069_style02_color03
+  - shape046_style02_color01
+  - shape069_style02_color05
+  - shape046_style02_color04
+  - style02_color02
+  - style02_color05
+  - shape078_style02_color05
+  - shape046_style02_color03
+  - shape069_style02_color04
+  - shape078_style02_color04
+  - shape078_style02_color02
+  - shape046_style02_color02
+  - Square
+  - shape078_style02_color03
+  - style02_color03
+  - shape069_style02_color02
+  - style02_color01
+  - shape078_style02_color01
+  m_RenderDataMap: {}
+  m_Tag: UIAtlas
+  m_IsVariant: 0
